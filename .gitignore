@@ -8,3 +8,13 @@ node_modules
 *.iml
 out
 gen
+/.editorconfig
+/.gitattributes
+/.jscsrc
+/.jshintrc
+/.travis.yml
+/CHANGELOG.md
+/CONTRIBUTING.md
+/gulpfile.js
+/package.json
+/LICENSE.txt
